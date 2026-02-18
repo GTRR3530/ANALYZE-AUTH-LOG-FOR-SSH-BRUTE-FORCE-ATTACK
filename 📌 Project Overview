@@ -1,0 +1,3 @@
+📌 Project Overview
+
+This project demonstrates how to analyze /var/log/auth.log to identify repeated failed SSH login attempts that indicate a brute-force attack.
