@@ -1,0 +1,11 @@
+
+
+Enable Fail2Ban
+
+Disable root SSH login
+
+Use SSH key authentication
+
+Change default SSH port
+
+Enable MFA
